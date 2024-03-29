@@ -7,7 +7,7 @@ Sou um entusiasta da tecnologia e um futuro desenvolvedor fullstack. Minha paix�
 ## Stack Tecnológica
 
 - 💻 Atualmente, estou explorando o universo do [Next.js](https://nextjs.org/) para criar aplicações web modernas e eficientes.
-- 🌌 Também sou fã do [Astro](https://astro.build/), uma ferramenta incrível para a construção de sites estáticos dinâmicos.
+- 🌌 Também gosto do [Astro](https://astro.build/), uma ferramenta incrível para a construção de sites estáticos dinâmicos.
 - 🚀 No lado do servidor, trabalho com [Node.js](https://nodejs.org/) para garantir um backend robusto e escalável.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbasaglia&layout=compact)
