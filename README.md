@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um entusiasta da tecnologia e um futuro desenvolvedor fullstack. Minha paixão por resolver problemas me impulsiona a explorar novas tecnologias e aprimorar minhas habilidades constantemente.
+Apaixonado por tecnologia e em busca de me tornar um desenvolvedor fullstack experiente. Movido por desafios e com sede constante de conhecimento, aprimoro minhas habilidades em programação através de cursos, workshops e projetos pessoais. Acredito que a combinação de criatividade, lógica e persistência me torna um candidato promissor para a sua equipe.
 
 ## Stack Tecnológica
 
