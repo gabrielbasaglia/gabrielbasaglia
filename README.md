@@ -9,7 +9,10 @@ Apaixonado por tecnologia e em busca de me tornar um desenvolvedor fullstack exp
 - 💻 Atualmente, estou explorando o [Next.js](https://nextjs.org/) para criar aplicações web modernas e eficientes.
 - 🚀 No lado do servidor, trabalho com [Node.js](https://nodejs.org/) para garantir um backend robusto e escalável.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbasaglia&layout=compact&hide_border=true&theme=default)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Projetos
 
