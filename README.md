@@ -9,7 +9,7 @@ Apaixonado por tecnologia e em busca de me tornar um desenvolvedor fullstack exp
 - 💻 Atualmente, estou explorando o [Next.js](https://nextjs.org/) para criar aplicações web modernas e eficientes.
 - 🚀 No lado do servidor, trabalho com [Node.js](https://nodejs.org/) para garantir um backend robusto e escalável.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbasaglia&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbasaglia&layout=compact&hide_border=true&theme=default)
 
 ## Projetos
 
